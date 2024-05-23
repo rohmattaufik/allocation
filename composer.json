@@ -1,0 +1,16 @@
+{
+    "name": "rohmattaufik/allocation",
+    "description": "allocation techniques",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Rohmattaufik\\Allocation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rohmattaufik"
+        }
+    ],
+    "require": {}
+}
